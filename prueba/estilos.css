@@ -1,0 +1,18 @@
+html {
+	font-size: 16px;
+    background: 	#E0FFFF;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+tr{
+    align-content: center;
+    color: white;
+}
+table{
+    border-radius: 10px;
+}
+
+table tr:nth-child(odd) {background-color: #FFC0CB;}
+
+table tr:nth-child(even) {background-color: #87CEFA;}
+table tr:first-child {background-color: 	#7B68EE; }
